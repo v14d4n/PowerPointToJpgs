@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationToJpgs", "PresentationToJpgs2\PresentationToJpgs.csproj", "{9215C78B-41A1-42D2-A589-1BD0B331B4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9215C78B-41A1-42D2-A589-1BD0B331B4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9215C78B-41A1-42D2-A589-1BD0B331B4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9215C78B-41A1-42D2-A589-1BD0B331B4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9215C78B-41A1-42D2-A589-1BD0B331B4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B30A8C3-B596-4DEF-AE25-00B8CAEE649F}
+	EndGlobalSection
+EndGlobal
